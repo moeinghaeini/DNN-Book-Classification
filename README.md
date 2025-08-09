@@ -141,11 +141,11 @@ precision    recall  f1-score   support
 
 - **Confusion matrix**:
 
-![Confusion matrix](assets/23_confusion_matrix_00.png)
+![Confusion matrix](23_confusion_matrix_00.png)
 
 - **Training/visualization figure**:
 
-![Training curves / visualization](assets/25_figure_00.png)
+![Training curves / visualization](25_figure_00.png)
 
 - **Sample prediction** (top-1 probabilities plotted for an example):
 
